@@ -5,7 +5,7 @@
 Need to Decide & Log a Jira
 ------------------------------
 ### Team Name Ideas
-- *(add name)*
+- Guys on FHIR &#xfe4f6;
 - *(add name)*
  
  
@@ -62,7 +62,7 @@ Preparations prior to Thursday
  
  
  
-Detailed Project Description
+Detailed Project Description - Incubator Project
 ------------------------------
 ### Brief Pitch
 *add description here*
@@ -73,7 +73,7 @@ Detailed Project Description
  
  
 ### Solution Statement
-*add description here*
+Remote monitoring of premature babies in neonatal care 
  
  
 ### What We Will Demo
