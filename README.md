@@ -37,8 +37,7 @@ Research & Potential APIs & Repos
 ### VIDEO resources
 [TWILIO - video api](https://www.twilio.com/video)
 [Google Hangouts API - samples](https://developers.google.com/+/hangouts/sample-apps)
- 
- 
+[Google VR API](https://developers.google.com/vr/concepts/vrview)
  
  
   
