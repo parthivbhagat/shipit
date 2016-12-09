@@ -8,9 +8,10 @@ Team
  Guys on FHIR &#128293;
 
  
- ### Screenshot
- - ![Alt text](Provider_Dashboard.png?raw=true "Provider NICU dashboard")
- - ![Alt text](NICU_LiveFeed_BabyTim.png?raw=true "Live Feed from NICU")
+Screenshots
+------------------------------
+ ![Alt text](Provider_Dashboard.png?raw=true "Provider NICU dashboard")
+ ![Alt text](NICU_LiveFeed_BabyTim.png?raw=true "Live Feed from NICU")
  
 ### Project 
 - NICU virtual incubator (FHIR vitals data combined  on Webcam/Video feed of baby) 
