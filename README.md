@@ -4,17 +4,17 @@
  
 Team
 ------------------------------
-### Team Name Ideas
  Guys on FHIR &#128293;
 
- 
+  
+What we did
+------------------------------
+NICU SMART app - FHIR vitals data combined  on Webcam/Video feed of baby
+
 Screenshots
 ------------------------------
  ![Alt text](Provider_Dashboard.png?raw=true "Provider NICU dashboard")
  ![Alt text](NICU_LiveFeed_BabyTim.png?raw=true "Live Feed from NICU")
- 
-### Project 
-- NICU virtual incubator (FHIR vitals data combined  on Webcam/Video feed of baby) 
 
  
 ### Team Members
@@ -23,7 +23,6 @@ Screenshots
 - [Sai Praveen Gampa](SaiPraveen.Gampa@cerner.com)
 - [Vetri Selvi Vairamuthu](VetriSelvi.Vairamuthu@cerner.com)
 - [Neil Pfeiffer](Neil.Pfeiffer@cerner.com)
- 
  
  
  
