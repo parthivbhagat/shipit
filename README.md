@@ -2,25 +2,25 @@
  
  
  
-Need to Decide & Log a Jira
+Team
 ------------------------------
 ### Team Name Ideas
-- Guys on FHIR &#128293;
-- *(add name)*
+ Guys on FHIR &#128293;
+
  
+ ### Screenshot
+ ![Alt text](Provider_Dashboard.png?raw=true "Provider NICU dashboard")
+ ![Alt text](NICU_LiveFeed_BabyTim.png?raw=true "Live Feed from NICU")
  
-### Project Ideas
+### Project 
 - NICU virtual incubator (FHIR vitals data combined  on Webcam/Video feed of baby) 
-- Gerontology Patient - Longitudinal Care of Condition
-- *(add idea)*
-- *(add idea)*
- 
+
  
 ### Team Members
 - [Aniruddha Bhaumik](Aniruddha.Bhaumik@cerner.com)
 - [Parthiv Bhagat](Parthiv.Bhagat@cerner.com)
 - [Sai Praveen Gampa](SaiPraveen.Gampa@cerner.com)
-- [VetriSelvi Vairamuthu](VetriSelvi.Vairamuthu@cerner.com)
+- [Vetri Selvi Vairamuthu](VetriSelvi.Vairamuthu@cerner.com)
 - [Neil Pfeiffer](Neil.Pfeiffer@cerner.com)
  
  
@@ -36,9 +36,7 @@ Research & Potential APIs & Repos
  
 ### VIDEO resources
 [TWILIO - video api](https://www.twilio.com/video)
-[Google Hangouts API - samples](https://developers.google.com/+/hangouts/sample-apps)
-[Google VR API](https://developers.google.com/vr/concepts/vrview)
- 
+
  
   
 Preparations prior to Thursday
@@ -49,34 +47,25 @@ Preparations prior to Thursday
   
  
 ### DEV/STAGE ENVIRONMENT prep
-- Cerner Skybox?
-- Public webhost? *(AWS/etc)*
-  
+- Public webhost - Github pages 
+- SMART on FHIR app - https://code.cerner.com/developer/smart-on-fhir/apps
  
 ### Developer Accounts/API keys prep
 - register FHIR application
-- External/Third Party accounts
+- External/Third Party accounts - Twilio Video API
  
  
  
  
- 
-Detailed Project Description - NICU virtual incubator Project
-------------------------------
-### Brief Pitch
-*add description here*
- 
- 
-### User Persona and Problem Statement
-*add description here*
- 
+
  
 ### Solution Statement
 Remote monitoring of premature babies in neonatal care.
  
  
 ### What We Will Demo
-*add description here*
+GuysOnFHIR.pptx
+
  
  
 
